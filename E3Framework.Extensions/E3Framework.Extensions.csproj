@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <LangVersion>latestmajor</LangVersion>
+        <Nullable>enable</Nullable>
+        <TargetFramework>net48</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\E3Framework.BaseTypes\E3Framework.BaseTypes.csproj" />
+        <ProjectReference Include="..\E3Framework.Contracts\E3Framework.Contracts.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Compile Remove="RotObjectWrapper.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="System.Data.DataSetExtensions" Version="4.6.0-preview3.19128.7" />
+        <PackageReference Include="System.Reactive" Version="6.0.1-preview.1" />
+        <PackageReference Include="System.Reactive.Core" Version="6.0.1-preview.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Reference Include="Interop.e3">
+          <HintPath>D:\Programming\Projects\Development\Dependencies\E3Scripts\Interop.e3.dll</HintPath>
+        </Reference>
+        <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'" />
+    </ItemGroup>
+
+</Project>

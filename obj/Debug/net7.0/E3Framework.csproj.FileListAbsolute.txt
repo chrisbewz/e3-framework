@@ -1,0 +1,5 @@
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\obj\Debug\net7.0\E3Framework.csproj.AssemblyReference.cache
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\obj\Debug\net7.0\E3Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\obj\Debug\net7.0\E3Framework.AssemblyInfoInputs.cache
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\obj\Debug\net7.0\E3Framework.AssemblyInfo.cs
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\obj\Debug\net7.0\E3Framework.csproj.CoreCompileInputs.cache

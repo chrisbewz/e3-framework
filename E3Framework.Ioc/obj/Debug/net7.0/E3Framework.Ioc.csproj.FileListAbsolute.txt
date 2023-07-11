@@ -1,0 +1,12 @@
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net7.0\E3Framework.Ioc.deps.json
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net7.0\E3Framework.Ioc.dll
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net7.0\E3Framework.Ioc.pdb
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\E3Framework.Ioc.csproj.AssemblyReference.cache
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\E3Framework.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\E3Framework.Ioc.AssemblyInfoInputs.cache
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\E3Framework.Ioc.AssemblyInfo.cs
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\E3Framework.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\E3Framework.Ioc.dll
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\refint\E3Framework.Ioc.dll
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\E3Framework.Ioc.pdb
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net7.0\ref\E3Framework.Ioc.dll

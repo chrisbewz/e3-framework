@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CProgramming_005CProjects_005CDevelopment_005CDependencies_005CE3Scripts_005CCTDispatcher_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CProgramming_005CProjects_005CDevelopment_005CDependencies_005CE3Scripts_005CInterop_002Ee3_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\2.2.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.12" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.2" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\3.1.32" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\5.0.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\5.0.1" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\7.0.0" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0-preview.1.23110.8" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0-preview.2.23128.3" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0-preview.3.23174.8" Loaded="True" /&gt;&#xD;
+  &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0-preview.6.23329.7" Loaded="True" /&gt;&#xD;
+  &lt;Assembly Path="D:\Programming\Projects\Development\Dependencies\E3Scripts\Interop.e3.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c5ee952_002D20a0_002D43d6_002D9273_002D61101038381e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestDispatcherCreationFromActiveInstance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.E3ApplicationWrapperTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.JobInterfaceTests.TestDeviceReadingFromClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

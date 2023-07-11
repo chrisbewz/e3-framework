@@ -1,0 +1,5 @@
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Contracts\obj\Debug\net7.0\E3Framework.Contracts.csproj.AssemblyReference.cache
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Contracts\obj\Debug\net7.0\E3Framework.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Contracts\obj\Debug\net7.0\E3Framework.Contracts.AssemblyInfoInputs.cache
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Contracts\obj\Debug\net7.0\E3Framework.Contracts.AssemblyInfo.cs
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Contracts\obj\Debug\net7.0\E3Framework.Contracts.csproj.CoreCompileInputs.cache

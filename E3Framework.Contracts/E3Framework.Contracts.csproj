@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>11.0</LangVersion>
+        <TargetFramework>net48</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="System.Reactive" Version="6.0.1-preview.1"/>
+        <PackageReference Include="System.Reactive.Core" Version="6.0.1-preview.1"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Reference Include="Interop.e3" Condition="'$(TargetFramework)' == 'net48'">
+            <HintPath>D:\Programming\Projects\Development\Dependencies\E3Scripts\Interop.e3.dll</HintPath>
+        </Reference>
+        <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'"/>
+    </ItemGroup>
+
+</Project>

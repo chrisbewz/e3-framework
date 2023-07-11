@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <LangVersion>11.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <TargetFramework>net48</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="Interop.e3">
+          <HintPath>D:\Programming\Projects\Development\Dependencies\E3Scripts\Interop.e3.dll</HintPath>
+        </Reference>
+        <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Autofac" Version="7.0.1" />
+        <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-preview.6.23329.7" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\E3Framework.BaseTypes\E3Framework.BaseTypes.csproj" />
+      <ProjectReference Include="..\E3Framework.Contracts\E3Framework.Contracts.csproj" />
+      <ProjectReference Include="..\E3Framework.Ioc.Base\E3Framework.Ioc.Base.csproj" />
+    </ItemGroup>
+
+</Project>

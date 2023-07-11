@@ -1,0 +1,1 @@
+﻿namespace E3Framework.Contracts.Interfaces;

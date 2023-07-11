@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj",
+        "projectName": "E3Framework.Contracts",
+        "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Christianb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs\\Microsoft\\Visual Studio 2022\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Christianb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "System.Reactive": {
+              "target": "Package",
+              "version": "[6.0.1-preview.1, )"
+            },
+            "System.Reactive.Core": {
+              "target": "Package",
+              "version": "[6.0.1-preview.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
