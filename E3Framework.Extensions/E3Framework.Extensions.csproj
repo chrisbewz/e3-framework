@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <ProjectReference Include="..\E3Framework.Abstractions\E3Framework.Abstractions.csproj" />
         <ProjectReference Include="..\E3Framework.BaseTypes\E3Framework.BaseTypes.csproj" />
         <ProjectReference Include="..\E3Framework.Contracts\E3Framework.Contracts.csproj" />
     </ItemGroup>
@@ -26,6 +27,7 @@
         <Reference Include="Interop.e3">
           <HintPath>D:\Programming\Projects\Development\Dependencies\E3Scripts\Interop.e3.dll</HintPath>
         </Reference>
+        <Reference Include="Microsoft.CSharp" />
         <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'" />
     </ItemGroup>
 

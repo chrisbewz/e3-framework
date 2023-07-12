@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IGraphBase : IComponentBase<IGraphInterface>
+public interface IGraphBase
 {
     IEnumerable<IAttributeBase> Attributes { get; set; }
 

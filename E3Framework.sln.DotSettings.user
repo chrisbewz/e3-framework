@@ -14,10 +14,32 @@
   &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0-preview.3.23174.8" Loaded="True" /&gt;&#xD;
   &lt;PhysicalFolder Path="C:\Users\Christianb\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0-preview.6.23329.7" Loaded="True" /&gt;&#xD;
   &lt;Assembly Path="D:\Programming\Projects\Development\Dependencies\E3Scripts\Interop.e3.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Programming\Projects\Development\Dependencies\sapnco.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c5ee952_002D20a0_002D43d6_002D9273_002D61101038381e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestDispatcherCreationFromActiveInstance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\Christianb\AppData\Local\JetBrains\Rider2023.1\resharper-host\temp\Rider\vAny\CoverageData\_E3Framework.889405790\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c5ee952_002D20a0_002D43d6_002D9273_002D61101038381e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestDispatcherCreationFromActiveInstance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.E3ApplicationWrapperTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.JobInterfaceTests.TestDeviceReadingFromClass&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.JobInterfaceTests.TestAsyncDeviceCreationFromExtension&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.JobInterfaceTests.CreateGenericDeviceFromExtension&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.DeviceTests.TestAttributeInitializingAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.DeviceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.E3WrapperTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=73ae3fc8_002D0107_002D428b_002Da779_002D5791ff5ea960/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAttributeInitializingAsync" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.DeviceTests.TestAttributeInitializingAsync&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.DeviceTests.TestUndefinedServiceProviderInstanceForDevice&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f50f8bbf_002D3963_002D46fb_002D8d66_002D05b8476cf0a2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAttributeInitializingAsync #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.DeviceTests.TestAttributeInitializingAsync&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.DeviceTests.TestUndefinedServiceProviderInstanceForDevice&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;10EBE366-B456-44EC-ABAE-52D8C3A430D6/f:E3WrapperTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

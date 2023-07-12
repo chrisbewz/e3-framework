@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface INetSegmentBase : IComponentBase<INetSegmentInterface>
+public interface INetSegmentBase
 {
     IEnumerable<IAttributeBase> Attributes { get; }
 

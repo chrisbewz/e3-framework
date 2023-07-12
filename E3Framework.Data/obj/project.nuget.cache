@@ -1,13 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "abkHTECAmEZqq8aYrS2zAcAWvQe8uvBH8ajuYAuhshAO2pWyqyyKHOtRWBJdC0pm3fuZ0X7eYggNtXBhjszNlA==",
+  "dgSpecHash": "haro/br81yL8lJBzv3PSWX0Nt7KkgfVEiF3SHe9udjlquyGwDtdTVF0+69IAtRH9HmZ59B/dlfKpFkguG6jvog==",
   "success": true,
   "projectFilePath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Data\\E3Framework.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Christianb\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0-preview.6.23329.7\\microsoft.bcl.asyncinterfaces.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Christianb\\.nuget\\packages\\system.reactive\\6.0.1-preview.1\\system.reactive.6.0.1-preview.1.nupkg.sha512",
     "C:\\Users\\Christianb\\.nuget\\packages\\system.reactive.core\\6.0.1-preview.1\\system.reactive.core.6.0.1-preview.1.nupkg.sha512",
-    "C:\\Users\\Christianb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
-    "C:\\Users\\Christianb\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.6.23329.7\\system.text.encodings.web.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.text.json\\8.0.0-preview.6.23329.7\\system.text.json.8.0.0-preview.6.23329.7.nupkg.sha512",
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Christianb\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

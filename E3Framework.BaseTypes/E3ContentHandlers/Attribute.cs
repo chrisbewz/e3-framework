@@ -1,20 +1,19 @@
 using e3;
-using E3Framework.Contracts.Abstractions;
+using E3Framework.Abstractions;
 using E3Framework.Contracts.Interfaces;
 
 namespace E3Framework.BaseTypes.E3ContentHandlers;
 
 public class Attribute : AttributeAbstract
 {
-    private Attribute(int id)
+    private Attribute(int id) : base(id)
     {
-        this.Id = id;
+
     }
 
-    private Attribute(int id, IAttributeInterface instance)
+    private Attribute(int id, IAttributeInterface instance) : base(id, instance)
     {
-        this.Id = id;
-        this.Instance = instance;
+        
     }
     public static Attribute FromId(int id)
     {

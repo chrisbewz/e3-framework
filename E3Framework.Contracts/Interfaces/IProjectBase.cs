@@ -2,6 +2,6 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IProjectBase : IComponentBase<IApplicationInterface>
+public interface IProjectBase
 {
 }

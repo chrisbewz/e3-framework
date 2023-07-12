@@ -1,17 +1,17 @@
 using e3;
-using E3Framework.Contracts.Abstractions;
+using E3Framework.Abstractions;
 
 namespace E3Framework.BaseTypes.E3ContentHandlers;
 
 public class Sheet : SheetAbstract
 {
     
-    private Sheet(int id)
+    private Sheet(int id) : base(id)
     {
         this.Id = id;
     }
     
-    private Sheet(int id, ISheetInterface instance)
+    private Sheet(int id, ISheetInterface instance) : base(id, instance)
     {
         this.Id = id;
         this.Instance = instance;

@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IDeviceBase : IComponentBase<IDeviceInterface>
+public interface IDeviceBase
 {
     string Name { get; set; }
 

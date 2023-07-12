@@ -1,8 +1,12 @@
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IComponentBase<T>
+public interface IComponentBase<T> : IComponentBase
 {
     public T Instance { get; set; }
+    
+}
 
-    public int Id { get; set; }
+public interface IComponentBase
+{
+    public abstract int Id { get; set; }
 }

@@ -1,16 +1,16 @@
 using e3;
-using E3Framework.Contracts.Abstractions;
+using E3Framework.Abstractions;
 
 namespace E3Framework.BaseTypes.E3ContentHandlers;
 
 public class Signal : SignalAbstract
 {
-    private Signal(int id)
+    private Signal(int id) : base(id)
     {
         this.Id = id;
     }
     
-    private Signal(int id, ISignalInterface instance)
+    private Signal(int id, ISignalInterface instance) : base(id, instance)
     {
         this.Id = id;
         this.Instance = instance;

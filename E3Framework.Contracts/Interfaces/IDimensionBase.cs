@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IDimensionBase : IComponentBase<IDimensionInterface>
+public interface IDimensionBase
 {
     IEnumerable<IAttributeBase> Attributes { get; set; }
 

@@ -8,16 +8,16 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\E3Framework.Contracts\E3Framework.Contracts.csproj"/>
+        <ProjectReference Include="..\E3Framework.Contracts\E3Framework.Contracts.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-        <PackageReference Include="System.Reactive" Version="6.0.1-preview.1"/>
-        <PackageReference Include="System.Reactive.Core" Version="6.0.1-preview.1"/>
+        <PackageReference Include="System.Reactive" Version="6.0.1-preview.1" />
+        <PackageReference Include="System.Reactive.Core" Version="6.0.1-preview.1" />
     </ItemGroup>
 
     <ItemGroup>
-        <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'"/>
+        <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'" />
     </ItemGroup>
 
 </Project>

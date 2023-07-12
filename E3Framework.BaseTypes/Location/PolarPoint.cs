@@ -1,4 +1,4 @@
-﻿using E3Framework.Contracts.Abstractions;
+﻿using E3Framework.Abstractions;
 using E3Framework.Contracts.Interfaces;
 
 namespace E3Framework.BaseTypes.Location;

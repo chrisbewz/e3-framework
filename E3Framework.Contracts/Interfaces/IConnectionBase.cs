@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IConnectionBase : IComponentBase<IConnectionInterface>
+public interface IConnectionBase
 {
     IEnumerable<IAttributeBase> Attributes { get; set; }
 

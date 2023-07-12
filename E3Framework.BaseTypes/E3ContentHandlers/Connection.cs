@@ -1,17 +1,17 @@
 using e3;
-using E3Framework.Contracts.Abstractions;
+using E3Framework.Abstractions;
 
 namespace E3Framework.BaseTypes.E3ContentHandlers;
 
 public class Connection : ConnectionAbstract
 {
     
-    private Connection(int id)
+    private Connection(int id) : base(id)
     {
         this.Id = id;
     }
 
-    private Connection(int id, IConnectionInterface instance)
+    private Connection(int id, IConnectionInterface instance) : base(id, instance)
     {
         this.Id = id;
         this.Instance = instance;

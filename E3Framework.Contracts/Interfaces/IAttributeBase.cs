@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IAttributeBase : IComponentBase<IAttributeInterface>
+public interface IAttributeBase
 {
     public string Value { get; set; }
 

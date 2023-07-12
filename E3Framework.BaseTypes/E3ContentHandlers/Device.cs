@@ -1,24 +1,21 @@
 using System.Net.Mail;
 using e3;
-using E3Framework.Contracts.Abstractions;
+using E3Framework.Abstractions;
 using E3Framework.Contracts.Interfaces;
-using E3Framework.BaseTypes.Extensions;
 
 namespace E3Framework.BaseTypes.E3ContentHandlers;
 
 public class Device : DeviceAbstract
 {
-    private Device(int id)
+    private Device(int id): base(id)
     {
         this.Id = id;
-        Task.Factory.StartNew(this.Init);
     }
-    
-    private Device(int id, IDeviceInterface instance)
+
+    private Device(int id, IDeviceInterface instance): base(id, instance)
     {
         this.Id = id;
         this.Instance = instance;
-        Task.Factory.StartNew(this.Init);
     }
 
     public static Device FromId(int id)
@@ -31,9 +28,9 @@ public class Device : DeviceAbstract
         return new Device(id,instance);
     }
 
-    public override async Task Init()
-    {
-        this.Instance.SetId(this.Id);
-        this.Attributes = await this.ConfigureAttributes();
-    }
+    // public override async Task Init()
+    // {
+    //     this.Instance.SetId(this.Id);
+    //     this.Attributes = await this.ConfigureAttributes();
+    // }
 }

@@ -8,15 +8,20 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="System.Reactive" Version="6.0.1-preview.1"/>
-        <PackageReference Include="System.Reactive.Core" Version="6.0.1-preview.1"/>
+        <PackageReference Include="System.Reactive" Version="6.0.1-preview.1" />
+        <PackageReference Include="System.Reactive.Core" Version="6.0.1-preview.1" />
+        <PackageReference Include="System.Text.Json" Version="8.0.0-preview.6.23329.7" />
     </ItemGroup>
 
     <ItemGroup>
         <Reference Include="Interop.e3" Condition="'$(TargetFramework)' == 'net48'">
             <HintPath>D:\Programming\Projects\Development\Dependencies\E3Scripts\Interop.e3.dll</HintPath>
         </Reference>
-        <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'"/>
+        <Reference Include="System.Net.Http" Condition="'$(TargetFramework)' == 'net48'" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\E3Framework.Ioc.Base\E3Framework.Ioc.Base.csproj" />
     </ItemGroup>
 
 </Project>

@@ -4,6 +4,28 @@
     "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Ioc\\E3Framework.Ioc.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Abstractions\\E3Framework.Abstractions.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Abstractions\\E3Framework.Abstractions.csproj",
+        "projectName": "E3Framework.Abstractions",
+        "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Abstractions\\E3Framework.Abstractions.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj"
+              },
+              "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Exceptions\\E3Framework.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Exceptions\\E3Framework.Exceptions.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
     "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.BaseTypes\\E3Framework.BaseTypes.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -32,6 +54,9 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
+              "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Abstractions\\E3Framework.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Abstractions\\E3Framework.Abstractions.csproj"
+              },
               "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj": {
                 "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Contracts\\E3Framework.Contracts.csproj"
               }
@@ -88,7 +113,11 @@
         "frameworks": {
           "net48": {
             "targetAlias": "net48",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Ioc.Base\\E3Framework.Ioc.Base.csproj": {
+                "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Ioc.Base\\E3Framework.Ioc.Base.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -108,10 +137,29 @@
             "System.Reactive.Core": {
               "target": "Package",
               "version": "[6.0.1-preview.1, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.7, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Exceptions\\E3Framework.Exceptions.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Exceptions\\E3Framework.Exceptions.csproj",
+        "projectName": "E3Framework.Exceptions",
+        "projectPath": "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Exceptions\\E3Framework.Exceptions.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
       }
     },
     "C:\\Users\\Christianb\\RiderProjects\\Development\\Utility Libraries\\E3Framework\\E3Framework.Ioc.Base\\E3Framework.Ioc.Base.csproj": {
@@ -184,6 +232,10 @@
               "version": "[7.0.1, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0-preview.6.23329.7, )"
+            },
+            "Microsoft.Extensions.Hosting": {
               "target": "Package",
               "version": "[8.0.0-preview.6.23329.7, )"
             }

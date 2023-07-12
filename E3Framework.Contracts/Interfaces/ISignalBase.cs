@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface ISignalBase : IComponentBase<ISignalInterface>
+public interface ISignalBase
 {
     string Name { get; set;}
 

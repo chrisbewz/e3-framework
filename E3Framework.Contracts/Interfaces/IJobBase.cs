@@ -2,6 +2,6 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IJobBase : IComponentBase<IJobInterface>
+public interface IJobBase
 {
 }

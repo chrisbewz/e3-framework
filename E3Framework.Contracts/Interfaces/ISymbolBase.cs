@@ -3,7 +3,7 @@ using E3Framework.Contracts.Enumerations;
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface ISymbolBase : IComponentBase<ISymbolInterface>
+public interface ISymbolBase
 {
     IArea PlacedArea { get;set; }
 

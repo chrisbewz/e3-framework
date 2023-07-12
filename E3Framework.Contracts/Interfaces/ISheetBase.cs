@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface ISheetBase : IComponentBase<ISheetInterface>
+public interface ISheetBase
 {
     string Name { get; set;}
 

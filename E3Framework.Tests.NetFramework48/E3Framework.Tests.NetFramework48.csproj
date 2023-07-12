@@ -74,11 +74,15 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="E3ApplicationWrapperTests.cs" />
-        <Compile Include="JobInterfaceTests.cs" />
+        <Compile Include="DeviceTests.cs" />
+        <Compile Include="E3WrapperTests.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
+        <ProjectReference Include="..\E3Framework.Abstractions\E3Framework.Abstractions.csproj">
+          <Project>{7cbf5a65-34f7-4a82-9292-a84e5d4274d9}</Project>
+          <Name>E3Framework.Abstractions</Name>
+        </ProjectReference>
         <ProjectReference Include="..\E3Framework.BaseTypes\E3Framework.BaseTypes.csproj">
             <Project>{4fd313d8-fcd5-4dc1-b150-5d888579c0c4}</Project>
             <Name>E3Framework.BaseTypes</Name>
@@ -90,6 +94,10 @@
         <ProjectReference Include="..\E3Framework.Data\E3Framework.Data.csproj">
             <Project>{e6bae108-d9bd-4825-a261-cc1067585481}</Project>
             <Name>E3Framework.Data</Name>
+        </ProjectReference>
+        <ProjectReference Include="..\E3Framework.Exceptions\E3Framework.Exceptions.csproj">
+          <Project>{b4aebafc-5677-4163-a98b-995bacc926fa}</Project>
+          <Name>E3Framework.Exceptions</Name>
         </ProjectReference>
         <ProjectReference Include="..\E3Framework.Extensions\E3Framework.Extensions.csproj">
             <Project>{53e67cd7-8918-41f0-ab5d-6f08efee5395}</Project>

@@ -1,6 +1,4 @@
-using E3Framework.Data.Models;
-
-namespace E3Framework.E3Framework.BaseTypes.Colors;
+namespace E3Framework.Data.Models;
 
 public class RgbColor
 {

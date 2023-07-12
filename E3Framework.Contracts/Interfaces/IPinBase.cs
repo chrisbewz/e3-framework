@@ -2,7 +2,7 @@
 
 namespace E3Framework.Contracts.Interfaces;
 
-public interface IPinBase : IComponentBase<IPinInterface>
+public interface IPinBase
 {
     IEnumerable<IAttributeBase> Attributes { get; set;}
 }
