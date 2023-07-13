@@ -1,5 +1,6 @@
 using e3;
 using E3Framework.Abstractions;
+using E3Framework.Abstractions.Types;
 
 namespace E3Framework.BaseTypes.E3ContentHandlers;
 

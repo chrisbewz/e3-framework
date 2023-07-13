@@ -6,6 +6,7 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.BaseTypes.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Contracts.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Data.dll
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Exceptions.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Extensions.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Ioc.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\Interop.e3.dll
@@ -53,6 +54,7 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.BaseTypes.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Contracts.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Data.pdb
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Exceptions.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Extensions.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Ioc.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
@@ -74,5 +76,3 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\obj\Debug\E3Framework.Tests.NetFramework48.csproj.CopyComplete
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\obj\Debug\E3Framework.Tests.NetFramework48.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\obj\Debug\E3Framework.Tests.NetFramework48.pdb
-C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Exceptions.dll
-C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Tests.NetFramework48\bin\Debug\E3Framework.Exceptions.pdb

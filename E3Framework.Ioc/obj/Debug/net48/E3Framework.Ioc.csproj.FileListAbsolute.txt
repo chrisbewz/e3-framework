@@ -41,6 +41,7 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Abstractions.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.BaseTypes.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Contracts.dll
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Exceptions.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Ioc.Base.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\Interop.e3.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.BaseTypes.pdb
@@ -48,6 +49,7 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Ioc.Base.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Ioc.Base.dll.config
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Abstractions.pdb
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Exceptions.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net48\E3Framework.Ioc.csproj.AssemblyReference.cache
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net48\E3Framework.Ioc.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net48\E3Framework.Ioc.AssemblyInfoInputs.cache
@@ -56,5 +58,3 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net48\E3Framework.Ioc.csproj.CopyComplete
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net48\E3Framework.Ioc.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\obj\Debug\net48\E3Framework.Ioc.pdb
-C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Exceptions.dll
-C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.Ioc\bin\Debug\net48\E3Framework.Exceptions.pdb

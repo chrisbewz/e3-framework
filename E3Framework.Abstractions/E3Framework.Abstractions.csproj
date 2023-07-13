@@ -43,22 +43,23 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="AttributeAbstract.cs" />
-        <Compile Include="CartesianPointAbstract.cs" />
-        <Compile Include="ColorBase.cs" />
-        <Compile Include="ComponentAbstract.cs" />
-        <Compile Include="ConnectionAbstract.cs" />
-        <Compile Include="DeviceAbstract.cs" />
-        <Compile Include="DimensionAbstract.cs" />
-        <Compile Include="GraphicAbstract.cs" />
-        <Compile Include="JobAbstract.cs" />
-        <Compile Include="NetSegmentAbstract.cs" />
-        <Compile Include="PinAbstract.cs" />
-        <Compile Include="PolarPointAbstract.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="SheetAbstract.cs" />
-        <Compile Include="SignalAbstract.cs" />
-        <Compile Include="SymbolAbstract.cs" />
+        <Compile Include="ProxyClasses\ProxyBase.cs" />
+        <Compile Include="Types\AttributeAbstract.cs" />
+        <Compile Include="Types\CartesianPointAbstract.cs" />
+        <Compile Include="Types\ColorBase.cs" />
+        <Compile Include="Types\ComponentAbstract.cs" />
+        <Compile Include="Types\ConnectionAbstract.cs" />
+        <Compile Include="Types\DeviceAbstract.cs" />
+        <Compile Include="Types\DimensionAbstract.cs" />
+        <Compile Include="Types\GraphicAbstract.cs" />
+        <Compile Include="Types\JobAbstract.cs" />
+        <Compile Include="Types\NetSegmentAbstract.cs" />
+        <Compile Include="Types\PinAbstract.cs" />
+        <Compile Include="Types\PolarPointAbstract.cs" />
+        <Compile Include="Types\SheetAbstract.cs" />
+        <Compile Include="Types\SignalAbstract.cs" />
+        <Compile Include="Types\SymbolAbstract.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\E3Framework.Contracts\E3Framework.Contracts.csproj">

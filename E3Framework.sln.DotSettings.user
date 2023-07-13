@@ -41,5 +41,6 @@
       &lt;TestId&gt;xUnit::10EBE366-B456-44EC-ABAE-52D8C3A430D6::.NETFramework,Version=v4.8::E3Framework.Tests.NetFramework48.DeviceTests.TestUndefinedServiceProviderInstanceForDevice&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
     &lt;ProjectFile&gt;10EBE366-B456-44EC-ABAE-52D8C3A430D6/f:E3WrapperTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;10EBE366-B456-44EC-ABAE-52D8C3A430D6/f:ProxyClassTests.cs&lt;/ProjectFile&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

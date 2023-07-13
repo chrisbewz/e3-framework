@@ -13,6 +13,7 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\System.ValueTuple.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Abstractions.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Contracts.dll
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Exceptions.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Ioc.Base.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\Interop.e3.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\Microsoft.Extensions.Hosting.Abstractions.dll
@@ -23,6 +24,7 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\Microsoft.Extensions.Primitives.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Abstractions.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Contracts.pdb
+C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Exceptions.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Ioc.Base.pdb
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Ioc.Base.dll.config
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\Microsoft.Extensions.Hosting.Abstractions.xml
@@ -39,5 +41,3 @@ C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Fr
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\obj\Debug\net48\E3Framework.BaseTypes.csproj.CopyComplete
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\obj\Debug\net48\E3Framework.BaseTypes.dll
 C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\obj\Debug\net48\E3Framework.BaseTypes.pdb
-C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Exceptions.dll
-C:\Users\Christianb\RiderProjects\Development\Utility Libraries\E3Framework\E3Framework.BaseTypes\bin\Debug\net48\E3Framework.Exceptions.pdb
